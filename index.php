@@ -10,14 +10,14 @@
 <body>
 
 <div class="p-3 mb-2 bg-primary text-white"></div>
-
-<div class="container"> 
 <section>
     <?php include('./includes/topbar.php'); ?>
 </section>
 <section>
     <?php include('./includes/slider-section.php'); ?>
-</section>   
+</section> 
+<div class="container"> 
+  
 <section id="home">
     <?php include('./includes/home-section.php'); ?>
 </section>
