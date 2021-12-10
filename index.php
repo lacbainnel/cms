@@ -5,8 +5,18 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <title>Document</title>
+    <title>BACK-END</title>
 </head>
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Amiri&family=Rubik:wght@300&display=swap');
+
+* {
+    font-family: 'Rubik', sans-serif;
+}
+</style>
+
+
 <body>
 
 <div class="p-3 mb-2 bg-primary text-white"></div>
@@ -24,7 +34,9 @@
 <section id="about">
     <?php include('./includes/about-section.php'); ?>
 </section>
-
+<section id="why-us">
+    <?php include('./includes/why-us-section.php'); ?>
+</section>
 </div>
 
 

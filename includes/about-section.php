@@ -30,9 +30,12 @@
     </div>
     </div>
 </div>
+
+
 <div class="col-6">
     <img class="img-fluid" src="css/slider.jpg" alt="">
 </div>
 </div>
+
 
 
